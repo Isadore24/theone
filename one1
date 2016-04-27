@@ -1,0 +1,63 @@
+<doctype! html>
+<html>
+<head>
+<title>my first website</title>
+<style>body{
+Width:110px;
+background:rgb(215, 215, 255);
+Padding:10px 100px}
+H1{
+	Float:left;
+	color:rgb(100, 0, 0);
+	margin:auto;
+}
+Footer{
+Text-align:center;
+backgroung:rgb:(175, 175 ,175);
+Clear:left:
+Padding:25px
+}
+background
+Section h2{
+Text-align center;
+color:rgb(0,100,150);
+0]
+Article[
+background:rbg
+</style>
+</head>
+<body>
+<header>
+<h1>mysite.com</h1>
+<h2>where you can learn cool stuff about me</h2>
+</header>
+<section>
+<h2>this is my first website!</h2>
+<p>DAVID ALAN GRIER IS ABOUT TO BE THE FACE OF FRIED CHICKEN</p>
+
+</section>
+<article>
+<h3>my interests</h3>
+<p> I am a bad ass programmer</p>
+</article>
+<article>
+<h3>my hobbies</h3>
+<ul>
+<li>teaching</li>
+<li>web dev</li>
+<li>by</li>
+<li>doing</li>
+</ul>
+</article>
+<article>
+<h3>contact me/h3>
+<p>(526)452-4256</p>
+<p>learnwebdevbydoing@gmail.com</p>
+</article>
+<footer>
+<p>udemy udem udem</p>
+</footer>
+<body/>
+</html>
+
+
